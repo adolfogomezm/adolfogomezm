@@ -1,27 +1,27 @@
 <h1 align="center">Hi 👋, I'm Adolfo Gómez</h1>
 <h3 align="center">I am an <strong>Intelligent Computing Student</strong> passionate about solving algorithmic challenges, building efficient web and mobile experiences and AI.</h3>
 
-- 🌱 I’m currently learning **React Native, Algorithms and LLMs implementation.**
+- 🌱 I’m currently learning **Low Level and Servers**!
 - 📫 How to reach me: **adolfo.gomez.dev@gmail.com**
 
 ---
 
 <h3 align="left">Featured Projects:</h3>
 
-#### 📉 Collaborative Graph Algorithms Dashboard
-*An optimization tool built to visualize and solve complex network and shortest-path problems.*
-- **Collaborative Engineering:** Developed within a 5-person team, successfully managing a robust Git workflow.
-- **Tech Stack:** Python & Streamlit.
-  
-#### 🍦 E-commerce & Event Management Web Platform *(Private Repository)*
-*Developed a tailored web application for a local ice cream shop to scale their sales and organization.*
-- **Key Features:** Full product catalog showcase built with Astro ensuring performance.
-- **Impact:** Transformed a traditional process into a trackable, digital workflow.
+#### 🛒 POSitive — Web Dashboard
+*A web dashboard for the POSitive point-of-sale system, built to monitor business metrics, products, and sales with AI-assisted insights.*
+- **Key Features:** Intelligent assistance integrated via the Google Gemini API, server-side route protection middleware, and authentication with Clerk.
+- **Tech Stack:** Astro (SSR), TypeScript, Google Gemini API, Tailwind CSS.
 
-#### 📝 Peer-Reviewed Scientific Articles Platform *(Private Repository)*
-*An advanced academic system designed to handle complex relational database logic and multi-user workflows.*
-- **Key Features:** Role-Based Access Control.
-- **Performance:** Built with Astro to ensure extremely fast loading times and optimized page delivery.
+#### ⚙️ POSitive — API Backend
+*A RESTful API managing core business logic, data persistence, and state synchronization for the POSitive system.*
+- **Key Features:** Secure environment variable handling, catalog synchronization endpoints, and server-side transaction handling.
+- **Tech Stack:** Node.js, Express, MySQL.
+
+#### 📝 SIGA — Peer-Review Academic Platform
+*A web platform designed to streamline article submissions and manage the peer-review workflow for scientific papers.*
+- **Key Features:** Role-Based Access Control (RBAC) for authors, reviewers, and admins, with secure session management via HTTP-only cookies.
+- **Tech Stack:** Astro (SSR), TypeScript, MySQL, Drizzle ORM, Tailwind CSS.
 
 ---
 
